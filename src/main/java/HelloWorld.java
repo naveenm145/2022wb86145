@@ -2,7 +2,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello Jenkins Continuous Integration");
+        System.out.println("Hello Jenkins Continuous Integrations");
     }
 }
     
